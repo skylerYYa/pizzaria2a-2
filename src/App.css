@@ -5,6 +5,23 @@
   text-align: center;
 }
 
+.Container 
+  .home {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(10, 10, 10);
+  width: 400px;
+  height:5 500px;
+  color: white;
+  }
+
+
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
